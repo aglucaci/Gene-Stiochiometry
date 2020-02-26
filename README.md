@@ -13,3 +13,7 @@ ID1 Seq1
 # Nucleotides and their atomic composition.
 A = {C:[Carbons in A, Oxygens in A, etc.]}
 ... repeat for all nucleotides.
+
+# Refs
+
+http://www2.csudh.edu/nsturm/CHEMXL153/NucleotidesCompandStruc.htm
